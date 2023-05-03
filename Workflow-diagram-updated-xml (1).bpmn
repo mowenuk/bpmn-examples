@@ -380,17 +380,17 @@
         </bpmndi:BPMNLabel>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="BPMNShape_1rbpj7y" bpmnElement="Activity_1asp9t7">
-        <omgdc:Bounds x="2650" y="190" width="100" height="80" />
+        <omgdc:Bounds x="0" y="0" width="100" height="80" />
         <bpmndi:BPMNLabel />
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="Gateway_033hwa1_di" bpmnElement="Gateway_033hwa1" isMarkerVisible="true">
-        <omgdc:Bounds x="2995" y="895" width="50" height="50" />
+        <omgdc:Bounds x="0" y="0" width="50" height="50" />
         <bpmndi:BPMNLabel>
-          <omgdc:Bounds x="2988" y="858" width="63" height="27" />
+          <omgdc:Bounds x="0" y="0" width="63" height="27" />
         </bpmndi:BPMNLabel>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="Activity_0zk6hwe_di" bpmnElement="Activity_0zk6hwe">
-        <omgdc:Bounds x="2850" y="880" width="100" height="80" />
+        <omgdc:Bounds x="0" y="0" width="100" height="80" />
         <bpmndi:BPMNLabel />
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="Activity_1a6ds46_di" bpmnElement="Activity_08mdcan">
